@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Workshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Workshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Workshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Workshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Workshop\SimpleSnake\bin\Debug\netcoreapp2.1\SimpleSnake.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Workshop\SimpleSnake\obj\Debug\netcoreapp2.1\SimpleSnake.pdb

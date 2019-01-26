@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Truck Tour\bin\Debug\netcoreapp2.0\Truck Tour.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Truck Tour\bin\Debug\netcoreapp2.0\Truck Tour.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Truck Tour\bin\Debug\netcoreapp2.0\Truck Tour.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Truck Tour\bin\Debug\netcoreapp2.0\Truck Tour.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Truck Tour\bin\Debug\netcoreapp2.0\Truck Tour.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Truck Tour\obj\Debug\netcoreapp2.0\Truck Tour.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Truck Tour\obj\Debug\netcoreapp2.0\Truck Tour.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Truck Tour\obj\Debug\netcoreapp2.0\Truck Tour.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Truck Tour\obj\Debug\netcoreapp2.0\Truck Tour.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Truck Tour\obj\Debug\netcoreapp2.0\Truck Tour.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Truck Tour\obj\Debug\netcoreapp2.0\Truck Tour.pdb

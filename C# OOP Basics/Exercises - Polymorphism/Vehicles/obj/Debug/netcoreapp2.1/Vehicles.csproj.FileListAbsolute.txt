@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Polymorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Polymorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Polymorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Polymorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Polymorphism\Vehicles\bin\Debug\netcoreapp2.1\Vehicles.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Polymorphism\Vehicles\obj\Debug\netcoreapp2.1\Vehicles.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\Mankind\bin\Debug\netcoreapp2.1\MankindProj.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\Mankind\bin\Debug\netcoreapp2.1\MankindProj.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\Mankind\bin\Debug\netcoreapp2.1\MankindProj.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\Mankind\bin\Debug\netcoreapp2.1\MankindProj.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\Mankind\bin\Debug\netcoreapp2.1\MankindProj.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\Mankind\obj\Debug\netcoreapp2.1\MankindProj.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\Mankind\obj\Debug\netcoreapp2.1\MankindProj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\Mankind\obj\Debug\netcoreapp2.1\MankindProj.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\Mankind\obj\Debug\netcoreapp2.1\MankindProj.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\Mankind\obj\Debug\netcoreapp2.1\MankindProj.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\Mankind\obj\Debug\netcoreapp2.1\MankindProj.pdb

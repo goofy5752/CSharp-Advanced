@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\HospitalProj\obj\Debug\netcoreapp2.1\HospitalProj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\HospitalProj\obj\Debug\netcoreapp2.1\HospitalProj.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\HospitalProj\obj\Debug\netcoreapp2.1\HospitalProj.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\HospitalProj\bin\Debug\netcoreapp2.1\HospitalProj.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\HospitalProj\bin\Debug\netcoreapp2.1\HospitalProj.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\HospitalProj\bin\Debug\netcoreapp2.1\HospitalProj.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\HospitalProj\bin\Debug\netcoreapp2.1\HospitalProj.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\HospitalProj\bin\Debug\netcoreapp2.1\HospitalProj.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\HospitalProj\obj\Debug\netcoreapp2.1\HospitalProj.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\HospitalProj\obj\Debug\netcoreapp2.1\HospitalProj.pdb

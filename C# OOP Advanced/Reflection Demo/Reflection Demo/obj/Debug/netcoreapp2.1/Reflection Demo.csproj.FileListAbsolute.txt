@@ -1,0 +1,11 @@
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\Reflection Demo\Reflection Demo\bin\Debug\netcoreapp2.1\Reflection Demo.deps.json
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\Reflection Demo\Reflection Demo\bin\Debug\netcoreapp2.1\Reflection Demo.runtimeconfig.json
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\Reflection Demo\Reflection Demo\bin\Debug\netcoreapp2.1\Reflection Demo.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\Reflection Demo\Reflection Demo\bin\Debug\netcoreapp2.1\Reflection Demo.dll
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\Reflection Demo\Reflection Demo\bin\Debug\netcoreapp2.1\Reflection Demo.pdb
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\Reflection Demo\Reflection Demo\obj\Debug\netcoreapp2.1\Reflection Demo.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\Reflection Demo\Reflection Demo\obj\Debug\netcoreapp2.1\Reflection Demo.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\Reflection Demo\Reflection Demo\obj\Debug\netcoreapp2.1\Reflection Demo.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\Reflection Demo\Reflection Demo\obj\Debug\netcoreapp2.1\Reflection Demo.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\Reflection Demo\Reflection Demo\obj\Debug\netcoreapp2.1\Reflection Demo.dll
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\Reflection Demo\Reflection Demo\obj\Debug\netcoreapp2.1\Reflection Demo.pdb

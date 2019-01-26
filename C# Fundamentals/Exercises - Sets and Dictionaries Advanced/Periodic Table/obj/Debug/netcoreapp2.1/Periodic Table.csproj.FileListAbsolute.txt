@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\Periodic Table\bin\Debug\netcoreapp2.1\Periodic Table.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\Periodic Table\bin\Debug\netcoreapp2.1\Periodic Table.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\Periodic Table\bin\Debug\netcoreapp2.1\Periodic Table.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\Periodic Table\bin\Debug\netcoreapp2.1\Periodic Table.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\Periodic Table\bin\Debug\netcoreapp2.1\Periodic Table.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\Periodic Table\obj\Debug\netcoreapp2.1\Periodic Table.pdb

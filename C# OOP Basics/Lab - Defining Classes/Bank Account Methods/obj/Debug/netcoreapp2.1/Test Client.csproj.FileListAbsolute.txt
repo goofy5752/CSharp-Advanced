@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Defining Classes\Bank Account Methods\bin\Debug\netcoreapp2.1\Test Client.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Defining Classes\Bank Account Methods\bin\Debug\netcoreapp2.1\Test Client.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Defining Classes\Bank Account Methods\bin\Debug\netcoreapp2.1\Test Client.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Defining Classes\Bank Account Methods\bin\Debug\netcoreapp2.1\Test Client.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Defining Classes\Bank Account Methods\bin\Debug\netcoreapp2.1\Test Client.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Defining Classes\Bank Account Methods\obj\Debug\netcoreapp2.1\Test Client.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Defining Classes\Bank Account Methods\obj\Debug\netcoreapp2.1\Test Client.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Defining Classes\Bank Account Methods\obj\Debug\netcoreapp2.1\Test Client.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Defining Classes\Bank Account Methods\obj\Debug\netcoreapp2.1\Test Client.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Defining Classes\Bank Account Methods\obj\Debug\netcoreapp2.1\Test Client.pdb

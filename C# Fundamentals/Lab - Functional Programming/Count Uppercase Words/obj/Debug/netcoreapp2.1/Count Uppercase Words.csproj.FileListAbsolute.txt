@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Count Uppercase Words\bin\Debug\netcoreapp2.1\Count Uppercase Words.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Count Uppercase Words\obj\Debug\netcoreapp2.1\Count Uppercase Words.csprojAssemblyReference.cache

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Product Shop\bin\Debug\netcoreapp2.1\Product Shop.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Product Shop\obj\Debug\netcoreapp2.1\Product Shop.pdb

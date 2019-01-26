@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp2.1\The V-Logger.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp2.1\The V-Logger.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp2.1\The V-Logger.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp2.1\The V-Logger.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\The V-Logger\bin\Debug\netcoreapp2.1\The V-Logger.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp2.1\The V-Logger.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp2.1\The V-Logger.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp2.1\The V-Logger.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp2.1\The V-Logger.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp2.1\The V-Logger.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Sets and Dictionaries Advanced\The V-Logger\obj\Debug\netcoreapp2.1\The V-Logger.pdb

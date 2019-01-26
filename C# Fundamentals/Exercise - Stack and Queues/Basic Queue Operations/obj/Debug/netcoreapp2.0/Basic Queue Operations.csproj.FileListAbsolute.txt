@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Basic Queue Operations\bin\Debug\netcoreapp2.0\Basic Queue Operations.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Basic Queue Operations\bin\Debug\netcoreapp2.0\Basic Queue Operations.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Basic Queue Operations\bin\Debug\netcoreapp2.0\Basic Queue Operations.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Basic Queue Operations\bin\Debug\netcoreapp2.0\Basic Queue Operations.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Basic Queue Operations\bin\Debug\netcoreapp2.0\Basic Queue Operations.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Basic Queue Operations\obj\Debug\netcoreapp2.0\Basic Queue Operations.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Basic Queue Operations\obj\Debug\netcoreapp2.0\Basic Queue Operations.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Basic Queue Operations\obj\Debug\netcoreapp2.0\Basic Queue Operations.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Basic Queue Operations\obj\Debug\netcoreapp2.0\Basic Queue Operations.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Basic Queue Operations\obj\Debug\netcoreapp2.0\Basic Queue Operations.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Basic Queue Operations\obj\Debug\netcoreapp2.0\Basic Queue Operations.pdb

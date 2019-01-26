@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Add VAT\bin\Debug\netcoreapp2.1\Add VAT.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Add VAT\bin\Debug\netcoreapp2.1\Add VAT.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Add VAT\bin\Debug\netcoreapp2.1\Add VAT.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Add VAT\bin\Debug\netcoreapp2.1\Add VAT.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Add VAT\bin\Debug\netcoreapp2.1\Add VAT.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Add VAT\obj\Debug\netcoreapp2.1\Add VAT.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Add VAT\obj\Debug\netcoreapp2.1\Add VAT.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Add VAT\obj\Debug\netcoreapp2.1\Add VAT.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Add VAT\obj\Debug\netcoreapp2.1\Add VAT.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Functional Programming\Add VAT\obj\Debug\netcoreapp2.1\Add VAT.pdb

@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Reverse Numbers\bin\Debug\netcoreapp2.0\Reverse Numbers.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Reverse Numbers\bin\Debug\netcoreapp2.0\Reverse Numbers.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Reverse Numbers\bin\Debug\netcoreapp2.0\Reverse Numbers.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Reverse Numbers\bin\Debug\netcoreapp2.0\Reverse Numbers.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Reverse Numbers\bin\Debug\netcoreapp2.0\Reverse Numbers.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Reverse Numbers\obj\Debug\netcoreapp2.0\Reverse Numbers.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Reverse Numbers\obj\Debug\netcoreapp2.0\Reverse Numbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Reverse Numbers\obj\Debug\netcoreapp2.0\Reverse Numbers.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Reverse Numbers\obj\Debug\netcoreapp2.0\Reverse Numbers.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Reverse Numbers\obj\Debug\netcoreapp2.0\Reverse Numbers.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Reverse Numbers\obj\Debug\netcoreapp2.0\Reverse Numbers.pdb

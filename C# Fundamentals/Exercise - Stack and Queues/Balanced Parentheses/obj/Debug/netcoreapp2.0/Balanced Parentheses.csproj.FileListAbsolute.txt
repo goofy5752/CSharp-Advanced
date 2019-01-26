@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Balanced Parentheses\bin\Debug\netcoreapp2.0\Balanced Parentheses.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Balanced Parentheses\bin\Debug\netcoreapp2.0\Balanced Parentheses.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Balanced Parentheses\bin\Debug\netcoreapp2.0\Balanced Parentheses.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Balanced Parentheses\bin\Debug\netcoreapp2.0\Balanced Parentheses.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Balanced Parentheses\bin\Debug\netcoreapp2.0\Balanced Parentheses.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Balanced Parentheses\obj\Debug\netcoreapp2.0\Balanced Parentheses.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Balanced Parentheses\obj\Debug\netcoreapp2.0\Balanced Parentheses.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Balanced Parentheses\obj\Debug\netcoreapp2.0\Balanced Parentheses.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Balanced Parentheses\obj\Debug\netcoreapp2.0\Balanced Parentheses.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Balanced Parentheses\obj\Debug\netcoreapp2.0\Balanced Parentheses.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Balanced Parentheses\obj\Debug\netcoreapp2.0\Balanced Parentheses.csprojAssemblyReference.cache

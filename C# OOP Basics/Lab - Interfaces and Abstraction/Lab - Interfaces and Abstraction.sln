@@ -1,0 +1,39 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2050
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shapes", "Shapes\Shapes.csproj", "{A7B04447-F6E6-4ADD-A08F-6C32FD1CD600}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "ShapesProj", "ShapesProj", "{9B65A01A-A56B-4CD2-B38D-11363C3F2261}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Cars", "Cars", "{38628B57-12FC-45BC-BAFD-C5A0A8AE21D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CarsProj", "CarsProj\CarsProj.csproj", "{220B0486-E581-4CFB-9057-A48B69997A7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A7B04447-F6E6-4ADD-A08F-6C32FD1CD600}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A7B04447-F6E6-4ADD-A08F-6C32FD1CD600}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A7B04447-F6E6-4ADD-A08F-6C32FD1CD600}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A7B04447-F6E6-4ADD-A08F-6C32FD1CD600}.Release|Any CPU.Build.0 = Release|Any CPU
+		{220B0486-E581-4CFB-9057-A48B69997A7A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{220B0486-E581-4CFB-9057-A48B69997A7A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{220B0486-E581-4CFB-9057-A48B69997A7A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{220B0486-E581-4CFB-9057-A48B69997A7A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A7B04447-F6E6-4ADD-A08F-6C32FD1CD600} = {9B65A01A-A56B-4CD2-B38D-11363C3F2261}
+		{220B0486-E581-4CFB-9057-A48B69997A7A} = {38628B57-12FC-45BC-BAFD-C5A0A8AE21D9}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BE605C5C-5D22-4C89-88D6-BFA0BAB9B1E1}
+	EndGlobalSection
+EndGlobal

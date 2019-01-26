@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\JediGalaxy\bin\Debug\netcoreapp2.1\JediGalaxy.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\JediGalaxy\bin\Debug\netcoreapp2.1\JediGalaxy.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\JediGalaxy\bin\Debug\netcoreapp2.1\JediGalaxy.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\JediGalaxy\bin\Debug\netcoreapp2.1\JediGalaxy.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\JediGalaxy\bin\Debug\netcoreapp2.1\JediGalaxy.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\JediGalaxy\obj\Debug\netcoreapp2.1\JediGalaxy.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\JediGalaxy\obj\Debug\netcoreapp2.1\JediGalaxy.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\JediGalaxy\obj\Debug\netcoreapp2.1\JediGalaxy.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\JediGalaxy\obj\Debug\netcoreapp2.1\JediGalaxy.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\JediGalaxy\obj\Debug\netcoreapp2.1\JediGalaxy.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Working with Abstraction - Exercises\JediGalaxy\obj\Debug\netcoreapp2.1\JediGalaxy.pdb

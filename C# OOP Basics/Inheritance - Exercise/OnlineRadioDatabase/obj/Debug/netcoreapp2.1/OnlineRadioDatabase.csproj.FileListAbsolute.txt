@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\OnlineRadioDatabase\bin\Debug\netcoreapp2.1\OnlineRadioDatabase.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\OnlineRadioDatabase\bin\Debug\netcoreapp2.1\OnlineRadioDatabase.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\OnlineRadioDatabase\bin\Debug\netcoreapp2.1\OnlineRadioDatabase.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\OnlineRadioDatabase\bin\Debug\netcoreapp2.1\OnlineRadioDatabase.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\OnlineRadioDatabase\bin\Debug\netcoreapp2.1\OnlineRadioDatabase.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\OnlineRadioDatabase\obj\Debug\netcoreapp2.1\OnlineRadioDatabase.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\OnlineRadioDatabase\obj\Debug\netcoreapp2.1\OnlineRadioDatabase.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\OnlineRadioDatabase\obj\Debug\netcoreapp2.1\OnlineRadioDatabase.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\OnlineRadioDatabase\obj\Debug\netcoreapp2.1\OnlineRadioDatabase.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Inheritance - Exercise\OnlineRadioDatabase\obj\Debug\netcoreapp2.1\OnlineRadioDatabase.pdb

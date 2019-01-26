@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Maximum Element\bin\Debug\netcoreapp2.0\Maximum Element.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Maximum Element\bin\Debug\netcoreapp2.0\Maximum Element.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Maximum Element\bin\Debug\netcoreapp2.0\Maximum Element.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Maximum Element\bin\Debug\netcoreapp2.0\Maximum Element.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Maximum Element\bin\Debug\netcoreapp2.0\Maximum Element.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Maximum Element\obj\Debug\netcoreapp2.0\Maximum Element.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Maximum Element\obj\Debug\netcoreapp2.0\Maximum Element.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Maximum Element\obj\Debug\netcoreapp2.0\Maximum Element.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Maximum Element\obj\Debug\netcoreapp2.0\Maximum Element.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Maximum Element\obj\Debug\netcoreapp2.0\Maximum Element.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercise - Stack and Queues\Maximum Element\obj\Debug\netcoreapp2.0\Maximum Element.pdb

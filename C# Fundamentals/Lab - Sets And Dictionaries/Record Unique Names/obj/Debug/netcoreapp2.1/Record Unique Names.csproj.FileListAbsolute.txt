@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Record Unique Names\bin\Debug\netcoreapp2.1\Record Unique Names.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Count Same Values in Array\Record Unique Names\obj\Debug\netcoreapp2.1\Record Unique Names.pdb

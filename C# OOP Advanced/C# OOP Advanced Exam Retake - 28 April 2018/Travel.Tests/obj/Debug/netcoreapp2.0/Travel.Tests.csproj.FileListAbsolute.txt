@@ -1,0 +1,4 @@
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 28 April 2018\Travel.Tests\obj\Debug\netcoreapp2.0\Travel.Tests.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 28 April 2018\Travel.Tests\obj\Debug\netcoreapp2.0\Travel.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 28 April 2018\Travel.Tests\obj\Debug\netcoreapp2.0\Travel.Tests.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 28 April 2018\Travel.Tests\obj\Debug\netcoreapp2.0\Travel.Tests.AssemblyInfo.cs

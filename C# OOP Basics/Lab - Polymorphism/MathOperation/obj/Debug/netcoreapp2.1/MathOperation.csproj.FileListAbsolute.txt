@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Polymorphism\MathOperation\bin\Debug\netcoreapp2.1\MathOperation.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Polymorphism\MathOperation\bin\Debug\netcoreapp2.1\MathOperation.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Polymorphism\MathOperation\bin\Debug\netcoreapp2.1\MathOperation.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Polymorphism\MathOperation\bin\Debug\netcoreapp2.1\MathOperation.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Polymorphism\MathOperation\bin\Debug\netcoreapp2.1\MathOperation.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Polymorphism\MathOperation\obj\Debug\netcoreapp2.1\MathOperation.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Polymorphism\MathOperation\obj\Debug\netcoreapp2.1\MathOperation.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Polymorphism\MathOperation\obj\Debug\netcoreapp2.1\MathOperation.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Polymorphism\MathOperation\obj\Debug\netcoreapp2.1\MathOperation.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Polymorphism\MathOperation\obj\Debug\netcoreapp2.1\MathOperation.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Polymorphism\MathOperation\obj\Debug\netcoreapp2.1\MathOperation.pdb

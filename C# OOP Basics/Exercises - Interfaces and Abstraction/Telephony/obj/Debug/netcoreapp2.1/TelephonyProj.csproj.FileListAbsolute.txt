@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\TelephonyProj\bin\Debug\netcoreapp2.1\TelephonyProj.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\TelephonyProj\bin\Debug\netcoreapp2.1\TelephonyProj.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\TelephonyProj\bin\Debug\netcoreapp2.1\TelephonyProj.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\TelephonyProj\bin\Debug\netcoreapp2.1\TelephonyProj.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\TelephonyProj\bin\Debug\netcoreapp2.1\TelephonyProj.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\TelephonyProj\obj\Debug\netcoreapp2.1\TelephonyProj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\TelephonyProj\obj\Debug\netcoreapp2.1\TelephonyProj.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\TelephonyProj\obj\Debug\netcoreapp2.1\TelephonyProj.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\TelephonyProj\obj\Debug\netcoreapp2.1\TelephonyProj.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\TelephonyProj\obj\Debug\netcoreapp2.1\TelephonyProj.pdb

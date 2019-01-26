@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\2x2 Squares in Matrix.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\2x2 Squares in Matrix.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\2x2 Squares in Matrix.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\2x2 Squares in Matrix.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\2x2 Squares in Matrix\bin\Debug\netcoreapp2.1\2x2 Squares in Matrix.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2x2 Squares in Matrix.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2x2 Squares in Matrix.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2x2 Squares in Matrix.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2x2 Squares in Matrix.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2x2 Squares in Matrix.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\2x2 Squares in Matrix\obj\Debug\netcoreapp2.1\2x2 Squares in Matrix.pdb

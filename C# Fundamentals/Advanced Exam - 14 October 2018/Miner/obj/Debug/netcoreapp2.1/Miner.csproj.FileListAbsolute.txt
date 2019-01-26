@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Miner\bin\Debug\netcoreapp2.1\Miner.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Miner\bin\Debug\netcoreapp2.1\Miner.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Miner\bin\Debug\netcoreapp2.1\Miner.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Miner\bin\Debug\netcoreapp2.1\Miner.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Miner\bin\Debug\netcoreapp2.1\Miner.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Miner\obj\Debug\netcoreapp2.1\Miner.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Miner\obj\Debug\netcoreapp2.1\Miner.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Miner\obj\Debug\netcoreapp2.1\Miner.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Miner\obj\Debug\netcoreapp2.1\Miner.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Miner\obj\Debug\netcoreapp2.1\Miner.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Miner\obj\Debug\netcoreapp2.1\Miner.pdb

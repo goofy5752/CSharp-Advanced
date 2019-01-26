@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.1\Matrix of Palindromes.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.1\Matrix of Palindromes.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.1\Matrix of Palindromes.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.1\Matrix of Palindromes.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\Matrix of Palindromes\bin\Debug\netcoreapp2.1\Matrix of Palindromes.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.1\Matrix of Palindromes.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.1\Matrix of Palindromes.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.1\Matrix of Palindromes.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.1\Matrix of Palindromes.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Exercises - Multidimensional Arrays\Matrix of Palindromes\obj\Debug\netcoreapp2.1\Matrix of Palindromes.pdb

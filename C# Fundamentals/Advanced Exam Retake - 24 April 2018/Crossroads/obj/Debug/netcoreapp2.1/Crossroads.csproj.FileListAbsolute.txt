@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam Retake - 24 April 2018\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam Retake - 24 April 2018\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam Retake - 24 April 2018\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam Retake - 24 April 2018\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam Retake - 24 April 2018\Crossroads\bin\Debug\netcoreapp2.1\Crossroads.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam Retake - 24 April 2018\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam Retake - 24 April 2018\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam Retake - 24 April 2018\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam Retake - 24 April 2018\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam Retake - 24 April 2018\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam Retake - 24 April 2018\Crossroads\obj\Debug\netcoreapp2.1\Crossroads.pdb

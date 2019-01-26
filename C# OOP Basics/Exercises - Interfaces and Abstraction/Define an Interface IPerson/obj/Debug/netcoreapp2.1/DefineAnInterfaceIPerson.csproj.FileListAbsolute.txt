@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\DefineAnInterfaceIPerson\bin\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\DefineAnInterfaceIPerson\obj\Debug\netcoreapp2.1\DefineAnInterfaceIPerson.pdb

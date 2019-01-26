@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Data Transfer\bin\Debug\netcoreapp2.1\Data Transfer.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Data Transfer\bin\Debug\netcoreapp2.1\Data Transfer.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Data Transfer\bin\Debug\netcoreapp2.1\Data Transfer.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Data Transfer\bin\Debug\netcoreapp2.1\Data Transfer.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Data Transfer\bin\Debug\netcoreapp2.1\Data Transfer.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Data Transfer\obj\Debug\netcoreapp2.1\Data Transfer.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Data Transfer\obj\Debug\netcoreapp2.1\Data Transfer.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Data Transfer\obj\Debug\netcoreapp2.1\Data Transfer.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Data Transfer\obj\Debug\netcoreapp2.1\Data Transfer.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Data Transfer\obj\Debug\netcoreapp2.1\Data Transfer.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Data Transfer\obj\Debug\netcoreapp2.1\Data Transfer.pdb

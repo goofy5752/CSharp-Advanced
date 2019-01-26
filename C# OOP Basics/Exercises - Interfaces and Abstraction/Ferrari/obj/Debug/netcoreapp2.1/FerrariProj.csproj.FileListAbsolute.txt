@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\FerrariProj\bin\Debug\netcoreapp2.1\FerrariProj.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\FerrariProj\bin\Debug\netcoreapp2.1\FerrariProj.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\FerrariProj\bin\Debug\netcoreapp2.1\FerrariProj.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\FerrariProj\bin\Debug\netcoreapp2.1\FerrariProj.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\FerrariProj\bin\Debug\netcoreapp2.1\FerrariProj.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\FerrariProj\obj\Debug\netcoreapp2.1\FerrariProj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\FerrariProj\obj\Debug\netcoreapp2.1\FerrariProj.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\FerrariProj\obj\Debug\netcoreapp2.1\FerrariProj.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\FerrariProj\obj\Debug\netcoreapp2.1\FerrariProj.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\FerrariProj\obj\Debug\netcoreapp2.1\FerrariProj.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\FerrariProj\obj\Debug\netcoreapp2.1\FerrariProj.csprojAssemblyReference.cache

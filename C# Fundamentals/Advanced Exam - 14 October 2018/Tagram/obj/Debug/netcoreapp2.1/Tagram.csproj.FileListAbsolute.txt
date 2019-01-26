@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Tagram\obj\Debug\netcoreapp2.1\Tagram.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Tagram\obj\Debug\netcoreapp2.1\Tagram.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Tagram\obj\Debug\netcoreapp2.1\Tagram.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Tagram\obj\Debug\netcoreapp2.1\Tagram.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Tagram\bin\Debug\netcoreapp2.1\Tagram.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Tagram\bin\Debug\netcoreapp2.1\Tagram.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Tagram\bin\Debug\netcoreapp2.1\Tagram.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Tagram\bin\Debug\netcoreapp2.1\Tagram.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Tagram\bin\Debug\netcoreapp2.1\Tagram.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Tagram\obj\Debug\netcoreapp2.1\Tagram.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 14 October 2018\Tagram\obj\Debug\netcoreapp2.1\Tagram.pdb

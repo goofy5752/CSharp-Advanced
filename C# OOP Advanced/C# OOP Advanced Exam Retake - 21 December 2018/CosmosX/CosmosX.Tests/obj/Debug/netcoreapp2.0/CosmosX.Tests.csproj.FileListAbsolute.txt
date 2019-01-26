@@ -1,0 +1,34 @@
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.AssemblyInfo.cs
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.Tests.deps.json
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.Tests.runtimeconfig.json
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.Tests.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.Tests.dll
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.Tests.pdb
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.dll
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.pdb
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.csproj.CopyComplete
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.dll
+C:\Users\Admin\Desktop\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.pdb
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.dll
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\NUnit3.TestAdapter.pdb
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\nunit.engine.netstandard.dll
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.Tests.deps.json
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.Tests.runtimeconfig.json
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.Tests.runtimeconfig.dev.json
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.Tests.dll
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.Tests.pdb
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.dll
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\bin\Debug\netcoreapp2.0\CosmosX.pdb
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.AssemblyInfo.cs
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.csproj.CopyComplete
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.dll
+C:\Users\Admin\Desktop\Programming\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Advanced\C# OOP Advanced Exam Retake - 21 December 2018\CosmosX\CosmosX.Tests\obj\Debug\netcoreapp2.0\CosmosX.Tests.pdb

@@ -1,0 +1,22 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\bin\Debug\netcoreapp2.1\BorderControl.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\bin\Debug\netcoreapp2.1\BorderControl.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\bin\Debug\netcoreapp2.1\BorderControl.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\bin\Debug\netcoreapp2.1\BorderControl.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\bin\Debug\netcoreapp2.1\BorderControl.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\bin\Debug\netcoreapp2.1\BorderControl.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\bin\Debug\netcoreapp2.1\BorderControl.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C# Advance\C# OOP Basics\Exercises - Interfaces and Abstraction\Border Control\obj\Debug\netcoreapp2.1\BorderControl.pdb

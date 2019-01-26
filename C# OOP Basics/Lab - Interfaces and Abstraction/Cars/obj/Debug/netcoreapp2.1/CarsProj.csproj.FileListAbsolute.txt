@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Interfaces and Abstraction\CarsProj\bin\Debug\netcoreapp2.1\CarsProj.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Interfaces and Abstraction\CarsProj\bin\Debug\netcoreapp2.1\CarsProj.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Interfaces and Abstraction\CarsProj\bin\Debug\netcoreapp2.1\CarsProj.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Interfaces and Abstraction\CarsProj\bin\Debug\netcoreapp2.1\CarsProj.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Interfaces and Abstraction\CarsProj\bin\Debug\netcoreapp2.1\CarsProj.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Interfaces and Abstraction\CarsProj\obj\Debug\netcoreapp2.1\CarsProj.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Interfaces and Abstraction\CarsProj\obj\Debug\netcoreapp2.1\CarsProj.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Interfaces and Abstraction\CarsProj\obj\Debug\netcoreapp2.1\CarsProj.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Interfaces and Abstraction\CarsProj\obj\Debug\netcoreapp2.1\CarsProj.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Interfaces and Abstraction\CarsProj\obj\Debug\netcoreapp2.1\CarsProj.pdb

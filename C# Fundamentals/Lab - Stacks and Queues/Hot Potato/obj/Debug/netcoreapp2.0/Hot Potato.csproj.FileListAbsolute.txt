@@ -1,0 +1,11 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Stacks and Queues\Hot Potato\bin\Debug\netcoreapp2.0\Hot Potato.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Stacks and Queues\Hot Potato\bin\Debug\netcoreapp2.0\Hot Potato.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Stacks and Queues\Hot Potato\bin\Debug\netcoreapp2.0\Hot Potato.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Stacks and Queues\Hot Potato\bin\Debug\netcoreapp2.0\Hot Potato.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Stacks and Queues\Hot Potato\bin\Debug\netcoreapp2.0\Hot Potato.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Stacks and Queues\Hot Potato\obj\Debug\netcoreapp2.0\Hot Potato.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Stacks and Queues\Hot Potato\obj\Debug\netcoreapp2.0\Hot Potato.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Stacks and Queues\Hot Potato\obj\Debug\netcoreapp2.0\Hot Potato.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Stacks and Queues\Hot Potato\obj\Debug\netcoreapp2.0\Hot Potato.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Stacks and Queues\Hot Potato\obj\Debug\netcoreapp2.0\Hot Potato.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Lab - Stacks and Queues\Hot Potato\obj\Debug\netcoreapp2.0\Hot Potato.pdb

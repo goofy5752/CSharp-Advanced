@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Encapsulation\SortPersonsbyNameandAge\bin\Debug\netcoreapp2.1\SortPersonsbyNameandAge.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Encapsulation\SortPersonsbyNameandAge\bin\Debug\netcoreapp2.1\SortPersonsbyNameandAge.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Encapsulation\SortPersonsbyNameandAge\bin\Debug\netcoreapp2.1\SortPersonsbyNameandAge.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Encapsulation\SortPersonsbyNameandAge\bin\Debug\netcoreapp2.1\SortPersonsbyNameandAge.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Encapsulation\SortPersonsbyNameandAge\bin\Debug\netcoreapp2.1\SortPersonsbyNameandAge.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Encapsulation\SortPersonsbyNameandAge\obj\Debug\netcoreapp2.1\SortPersonsbyNameandAge.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Encapsulation\SortPersonsbyNameandAge\obj\Debug\netcoreapp2.1\SortPersonsbyNameandAge.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Encapsulation\SortPersonsbyNameandAge\obj\Debug\netcoreapp2.1\SortPersonsbyNameandAge.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Encapsulation\SortPersonsbyNameandAge\obj\Debug\netcoreapp2.1\SortPersonsbyNameandAge.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\C# OOP Basics\Lab - Encapsulation\SortPersonsbyNameandAge\obj\Debug\netcoreapp2.1\SortPersonsbyNameandAge.pdb

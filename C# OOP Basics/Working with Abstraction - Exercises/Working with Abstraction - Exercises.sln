@@ -1,0 +1,57 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2046
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JediGalaxy", "JediGalaxy\JediGalaxy.csproj", "{7C2DA1E7-66CA-4FBD-912C-418A54323448}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Jedi Galaxy", "Jedi Galaxy", "{103D1089-75DA-4B73-B6B3-49431C1736FD}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Hospital", "Hospital", "{80AED20A-220E-47F1-9E34-18AF96FC3C1D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HospitalProj", "HospitalProj\HospitalProj.csproj", "{C5909CC9-2A7F-44AA-8DB1-A8973CABFD0E}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Greedy Times", "Greedy Times", "{DB54DFD4-27C8-4945-A587-74E77A6A702C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GreedyTimes", "GreedyTimes\GreedyTimes.csproj", "{2F59B44A-6F99-49C0-B394-78405667A454}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Sneaking", "Sneaking", "{84C4E524-88DC-4616-A543-ADF21DDC991B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SneakingProj", "SneakingProj\SneakingProj.csproj", "{08581091-FD7F-4D5F-A2E9-D11F3B9FEA70}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7C2DA1E7-66CA-4FBD-912C-418A54323448}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7C2DA1E7-66CA-4FBD-912C-418A54323448}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7C2DA1E7-66CA-4FBD-912C-418A54323448}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7C2DA1E7-66CA-4FBD-912C-418A54323448}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C5909CC9-2A7F-44AA-8DB1-A8973CABFD0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5909CC9-2A7F-44AA-8DB1-A8973CABFD0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5909CC9-2A7F-44AA-8DB1-A8973CABFD0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5909CC9-2A7F-44AA-8DB1-A8973CABFD0E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F59B44A-6F99-49C0-B394-78405667A454}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F59B44A-6F99-49C0-B394-78405667A454}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F59B44A-6F99-49C0-B394-78405667A454}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F59B44A-6F99-49C0-B394-78405667A454}.Release|Any CPU.Build.0 = Release|Any CPU
+		{08581091-FD7F-4D5F-A2E9-D11F3B9FEA70}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{08581091-FD7F-4D5F-A2E9-D11F3B9FEA70}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{08581091-FD7F-4D5F-A2E9-D11F3B9FEA70}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{08581091-FD7F-4D5F-A2E9-D11F3B9FEA70}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{7C2DA1E7-66CA-4FBD-912C-418A54323448} = {103D1089-75DA-4B73-B6B3-49431C1736FD}
+		{C5909CC9-2A7F-44AA-8DB1-A8973CABFD0E} = {80AED20A-220E-47F1-9E34-18AF96FC3C1D}
+		{2F59B44A-6F99-49C0-B394-78405667A454} = {DB54DFD4-27C8-4945-A587-74E77A6A702C}
+		{08581091-FD7F-4D5F-A2E9-D11F3B9FEA70} = {84C4E524-88DC-4616-A543-ADF21DDC991B}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AB1974FB-7A69-4A57-B0ED-0C0B295BE319}
+	EndGlobalSection
+EndGlobal

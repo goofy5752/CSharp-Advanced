@@ -1,0 +1,10 @@
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 11 February 2018\Crypto Blockchain\bin\Debug\netcoreapp2.1\Crypto Blockchain.deps.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 11 February 2018\Crypto Blockchain\bin\Debug\netcoreapp2.1\Crypto Blockchain.runtimeconfig.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 11 February 2018\Crypto Blockchain\bin\Debug\netcoreapp2.1\Crypto Blockchain.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 11 February 2018\Crypto Blockchain\bin\Debug\netcoreapp2.1\Crypto Blockchain.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 11 February 2018\Crypto Blockchain\bin\Debug\netcoreapp2.1\Crypto Blockchain.pdb
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 11 February 2018\Crypto Blockchain\obj\Debug\netcoreapp2.1\Crypto Blockchain.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 11 February 2018\Crypto Blockchain\obj\Debug\netcoreapp2.1\Crypto Blockchain.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 11 February 2018\Crypto Blockchain\obj\Debug\netcoreapp2.1\Crypto Blockchain.AssemblyInfo.cs
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 11 February 2018\Crypto Blockchain\obj\Debug\netcoreapp2.1\Crypto Blockchain.dll
+C:\Users\Admin\source\repos\SoftUniProjects\14.05.2018-\C#Advance\Advanced Exam - 11 February 2018\Crypto Blockchain\obj\Debug\netcoreapp2.1\Crypto Blockchain.pdb
