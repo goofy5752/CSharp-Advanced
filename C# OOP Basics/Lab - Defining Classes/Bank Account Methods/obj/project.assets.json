@@ -516,10 +516,11 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.1.0": {
-      "sha512": "TT+QCi9LcxGTjBssH7S7n5+8DVcwfG4DYgXX7Dk7+BfZ4oVHj8Q0CbYk9glzAlHLsSt3bYzol+fOdra2iu6GOw==",
+      "sha512": "aSTPL94NloSiQVL5Len8wbjFKOnoAX/vOh3s3DF6g3c7GUUMLCDvnBhmA72M2iN2AedyA8hpr7m89kzSAKUnJQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.1.0",
       "files": [
+        ".nupkg.metadata",
         ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
@@ -687,11 +688,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SoftUniProjects\\14.05.2018-\\C#Advance\\C# OOP Basics\\Lab - Defining Classes\\Bank Account Methods\\TestClient.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programming\\source\\repos\\SoftUniProjects\\14.05.2018-\\CSharp-Advanced\\C# OOP Basics\\Lab - Defining Classes\\Bank Account Methods\\TestClient.csproj",
       "projectName": "TestClient",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\SoftUniProjects\\14.05.2018-\\C#Advance\\C# OOP Basics\\Lab - Defining Classes\\Bank Account Methods\\TestClient.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Programming\\source\\repos\\SoftUniProjects\\14.05.2018-\\CSharp-Advanced\\C# OOP Basics\\Lab - Defining Classes\\Bank Account Methods\\TestClient.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\SoftUniProjects\\14.05.2018-\\C#Advance\\C# OOP Basics\\Lab - Defining Classes\\Bank Account Methods\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Programming\\source\\repos\\SoftUniProjects\\14.05.2018-\\CSharp-Advanced\\C# OOP Basics\\Lab - Defining Classes\\Bank Account Methods\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
