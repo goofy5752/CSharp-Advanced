@@ -523,7 +523,7 @@
       ]
     },
     "Microsoft.NETCore.Platforms/2.0.0": {
-      "sha512": "5BdAWDgMNwf90L0J+C/eh6kfHDa37ViL1cBL1nv5zPA4TB2cGV51YiQyvzCEy9DBE0LwwMI4+PkUpIekKyocSA==",
+      "sha512": "VdLJOCXhZaEMY7Hm2GKiULmn7IEPFE4XC5LPSfBVCUIA8YLZVh846gtfBJalsPQF2PlzdD7ecX7DZEulJ402ZQ==",
       "type": "package",
       "path": "microsoft.netcore.platforms/2.0.0",
       "files": [
@@ -682,11 +682,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programming\\source\\repos\\SoftUniProjects\\14.05.2018-\\C# Advance\\C# OOP Advanced\\C# OOP Advanced Exam Retake - 21 December 2018\\CosmosX\\CosmosX\\CosmosX.csproj",
+      "projectUniqueName": "C:\\Users\\Admin\\Desktop\\Programming\\Software University\\CSharp-Advanced\\C# OOP Advanced\\C# OOP Advanced Exam Retake - 21 December 2018\\CosmosX\\CosmosX\\CosmosX.csproj",
       "projectName": "CosmosX",
-      "projectPath": "C:\\Users\\Admin\\Desktop\\Programming\\source\\repos\\SoftUniProjects\\14.05.2018-\\C# Advance\\C# OOP Advanced\\C# OOP Advanced Exam Retake - 21 December 2018\\CosmosX\\CosmosX\\CosmosX.csproj",
+      "projectPath": "C:\\Users\\Admin\\Desktop\\Programming\\Software University\\CSharp-Advanced\\C# OOP Advanced\\C# OOP Advanced Exam Retake - 21 December 2018\\CosmosX\\CosmosX\\CosmosX.csproj",
       "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\Desktop\\Programming\\source\\repos\\SoftUniProjects\\14.05.2018-\\C# Advance\\C# OOP Advanced\\C# OOP Advanced Exam Retake - 21 December 2018\\CosmosX\\CosmosX\\obj\\",
+      "outputPath": "C:\\Users\\Admin\\Desktop\\Programming\\Software University\\CSharp-Advanced\\C# OOP Advanced\\C# OOP Advanced Exam Retake - 21 December 2018\\CosmosX\\CosmosX\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
