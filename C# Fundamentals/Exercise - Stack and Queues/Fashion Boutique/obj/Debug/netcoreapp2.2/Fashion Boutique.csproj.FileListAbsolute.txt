@@ -1,0 +1,11 @@
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fashion Boutique\bin\Debug\netcoreapp2.2\Fashion Boutique.deps.json
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fashion Boutique\bin\Debug\netcoreapp2.2\Fashion Boutique.runtimeconfig.json
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fashion Boutique\bin\Debug\netcoreapp2.2\Fashion Boutique.runtimeconfig.dev.json
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fashion Boutique\bin\Debug\netcoreapp2.2\Fashion Boutique.dll
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fashion Boutique\bin\Debug\netcoreapp2.2\Fashion Boutique.pdb
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fashion Boutique\obj\Debug\netcoreapp2.2\Fashion Boutique.csprojAssemblyReference.cache
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fashion Boutique\obj\Debug\netcoreapp2.2\Fashion Boutique.csproj.CoreCompileInputs.cache
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fashion Boutique\obj\Debug\netcoreapp2.2\Fashion Boutique.AssemblyInfoInputs.cache
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fashion Boutique\obj\Debug\netcoreapp2.2\Fashion Boutique.AssemblyInfo.cs
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fashion Boutique\obj\Debug\netcoreapp2.2\Fashion Boutique.dll
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fashion Boutique\obj\Debug\netcoreapp2.2\Fashion Boutique.pdb

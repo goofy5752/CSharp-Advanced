@@ -21,7 +21,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poisonous Plants", "Poisono
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack Fibonacci", "Stack Fibonacci\Stack Fibonacci.csproj", "{AC512707-E25D-454E-BBEA-70A1657D82AB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fast Food", "Fast Food\Fast Food.csproj", "{856423EF-8D76-4E17-87E7-E05FB93FEB6F}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Fast Food", "Fast Food\Fast Food.csproj", "{856423EF-8D76-4E17-87E7-E05FB93FEB6F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fashion Boutique", "Fashion Boutique\Fashion Boutique.csproj", "{49BC9E88-676B-4777-A56A-5ACA44F8BC39}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -69,6 +71,10 @@ Global
 		{856423EF-8D76-4E17-87E7-E05FB93FEB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{856423EF-8D76-4E17-87E7-E05FB93FEB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{856423EF-8D76-4E17-87E7-E05FB93FEB6F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{49BC9E88-676B-4777-A56A-5ACA44F8BC39}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{49BC9E88-676B-4777-A56A-5ACA44F8BC39}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{49BC9E88-676B-4777-A56A-5ACA44F8BC39}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{49BC9E88-676B-4777-A56A-5ACA44F8BC39}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
