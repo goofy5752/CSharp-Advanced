@@ -1,0 +1,11 @@
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fast Food\bin\Debug\netcoreapp2.2\Fast Food.deps.json
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fast Food\bin\Debug\netcoreapp2.2\Fast Food.runtimeconfig.json
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fast Food\bin\Debug\netcoreapp2.2\Fast Food.runtimeconfig.dev.json
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fast Food\bin\Debug\netcoreapp2.2\Fast Food.dll
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fast Food\bin\Debug\netcoreapp2.2\Fast Food.pdb
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fast Food\obj\Debug\netcoreapp2.2\Fast Food.csprojAssemblyReference.cache
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fast Food\obj\Debug\netcoreapp2.2\Fast Food.csproj.CoreCompileInputs.cache
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fast Food\obj\Debug\netcoreapp2.2\Fast Food.AssemblyInfoInputs.cache
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fast Food\obj\Debug\netcoreapp2.2\Fast Food.AssemblyInfo.cs
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fast Food\obj\Debug\netcoreapp2.2\Fast Food.dll
+D:\Programming\Software University\CSharp-Advanced\C# Fundamentals\Exercise - Stack and Queues\Fast Food\obj\Debug\netcoreapp2.2\Fast Food.pdb

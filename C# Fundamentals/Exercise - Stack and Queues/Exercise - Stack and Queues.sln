@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 15
-VisualStudioVersion = 15.0.27703.2018
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29209.62
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Reverse Numbers", "Reverse Numbers\Reverse Numbers.csproj", "{F69C7828-03F3-4805-813A-798E864CD164}"
 EndProject
@@ -19,7 +19,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Balanced Parentheses", "Bal
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Poisonous Plants", "Poisonous Plants\Poisonous Plants.csproj", "{2C0E791E-0626-43AD-AF19-00005249A53D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Stack Fibonacci", "Stack Fibonacci\Stack Fibonacci.csproj", "{AC512707-E25D-454E-BBEA-70A1657D82AB}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Stack Fibonacci", "Stack Fibonacci\Stack Fibonacci.csproj", "{AC512707-E25D-454E-BBEA-70A1657D82AB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fast Food", "Fast Food\Fast Food.csproj", "{856423EF-8D76-4E17-87E7-E05FB93FEB6F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -63,6 +65,10 @@ Global
 		{AC512707-E25D-454E-BBEA-70A1657D82AB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AC512707-E25D-454E-BBEA-70A1657D82AB}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AC512707-E25D-454E-BBEA-70A1657D82AB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{856423EF-8D76-4E17-87E7-E05FB93FEB6F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{856423EF-8D76-4E17-87E7-E05FB93FEB6F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{856423EF-8D76-4E17-87E7-E05FB93FEB6F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{856423EF-8D76-4E17-87E7-E05FB93FEB6F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

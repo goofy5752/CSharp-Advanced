@@ -664,23 +664,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Admin\\.nuget\\packages\\": {},
+    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Admin\\source\\repos\\SoftUniProjects\\14.05.2018-\\C#Advance\\Exercise - Stack and Queues\\Balanced Parentheses\\Balanced Parentheses.csproj",
+      "projectUniqueName": "D:\\Programming\\Software University\\CSharp-Advanced\\C# Fundamentals\\Exercise - Stack and Queues\\Balanced Parentheses\\Balanced Parentheses.csproj",
       "projectName": "Balanced Parentheses",
-      "projectPath": "C:\\Users\\Admin\\source\\repos\\SoftUniProjects\\14.05.2018-\\C#Advance\\Exercise - Stack and Queues\\Balanced Parentheses\\Balanced Parentheses.csproj",
-      "packagesPath": "C:\\Users\\Admin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Admin\\source\\repos\\SoftUniProjects\\14.05.2018-\\C#Advance\\Exercise - Stack and Queues\\Balanced Parentheses\\obj\\",
+      "projectPath": "D:\\Programming\\Software University\\CSharp-Advanced\\C# Fundamentals\\Exercise - Stack and Queues\\Balanced Parentheses\\Balanced Parentheses.csproj",
+      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
+      "outputPath": "D:\\Programming\\Software University\\CSharp-Advanced\\C# Fundamentals\\Exercise - Stack and Queues\\Balanced Parentheses\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Admin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -705,6 +705,7 @@
       "netcoreapp2.0": {
         "dependencies": {
           "Microsoft.NETCore.App": {
+            "suppressParent": "All",
             "target": "Package",
             "version": "[2.0.0, )",
             "autoReferenced": true
